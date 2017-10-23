@@ -11,8 +11,7 @@ Testing GitBook avec **GitHub**
 
 * 1
 * 2
-* 3
-  ---
+* ## 3
 
-Oki 21 abc
+Oki 21 abcghfhgf
 
