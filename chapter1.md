@@ -3,11 +3,12 @@
 
 # First Chapter
 
-Testing GitBook avec **GitHub**
+* Testing _GitBoo_k avec **GitHub**
 
 ---
 
-1.0.0
+1. 1.0.0
+2. Oki 21
 
-Oki 21
+
 
