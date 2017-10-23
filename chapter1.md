@@ -1,4 +1,4 @@
 # First Chapter
 
-Testing
+Testing GitBook avec GitHub
 
